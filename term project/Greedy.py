@@ -30,13 +30,14 @@ class Greedy(object):
         length = len(self.dists)
         path = [[] for i in range(self.team_nums)]
         vis = set()
-        vis.add(49)
+        for i in [49,53,54,55,56]:
+            vis.add(i) 
         point = 0
         for i in range(self.team_nums):
             path[i].append(49)
-            going = -1
-        for i in range(length):
+        while len(vis) != 57:
             min_goal = 100000
+            going = -1
             for j in range(length):
                 now = path[point][-1]
                 if j not in vis :
@@ -44,6 +45,8 @@ class Greedy(object):
                     if goal < min_goal:
                         min_goal = goal
                         going = j
+            if going == -1 or going in vis:
+                break
             path[point].append(going)
             vis.add(going)
             point = (point + 1)%self.team_nums
