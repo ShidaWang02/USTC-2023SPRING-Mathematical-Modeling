@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc D:\USR\Mathematical-Modeling\practice\C++warmup\0_CppPratices\samples\lib\libCppPractices_libraries_staticd.a CMakeFiles/CppPractices_libraries_static.dir/PolynomialMap.cpp.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe D:\USR\Mathematical-Modeling\practice\C++warmup\0_CppPratices\samples\lib\libCppPractices_libraries_staticd.a

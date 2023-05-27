@@ -1,0 +1,5 @@
+Matlab编程练习3--Minimal Surface
+
+作业要求见附件。
+
+时间：3天。

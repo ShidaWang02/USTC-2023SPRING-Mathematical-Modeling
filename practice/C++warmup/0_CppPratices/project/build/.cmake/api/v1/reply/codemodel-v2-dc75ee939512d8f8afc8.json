@@ -1,0 +1,283 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "_deps/ucmake-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.ucmake-build-Debug-c48b9b8ff60dd0c8c673.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/ucmake-src"
+				},
+				{
+					"build" : "_deps/ucmake-build/src/test/00_Basic",
+					"jsonFile" : "directory-_deps.ucmake-build.src.test.00_Basic-Debug-fdbcd054e1a872ca9669.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/ucmake-src/src/test/00_Basic",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "src/executables/1_BasicDArray",
+					"jsonFile" : "directory-src.executables.1_BasicDArray-Debug-e164c32056fee5448c73.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/executables/1_BasicDArray",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/executables/2_EfficientDArray",
+					"jsonFile" : "directory-src.executables.2_EfficientDArray-Debug-e720216e99c9078bef73.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/executables/2_EfficientDArray",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/executables/3_TemplateDArray",
+					"jsonFile" : "directory-src.executables.3_TemplateDArray-Debug-02e2f034d358a6fb8552.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/executables/3_TemplateDArray",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "src/executables/4_list_Polynomial",
+					"jsonFile" : "directory-src.executables.4_list_Polynomial-Debug-fbb6a4b828927e592de7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/executables/4_list_Polynomial",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "src/executables/5_map_Polynomial",
+					"jsonFile" : "directory-src.executables.5_map_Polynomial-Debug-82c483d2a313a53e5ef4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/executables/5_map_Polynomial",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "src/libraries/shared",
+					"jsonFile" : "directory-src.libraries.shared-Debug-dac574ad1e6c8c2f2d2d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/libraries/shared",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "src/libraries/static",
+					"jsonFile" : "directory-src.libraries.static-Debug-936659dff390fa899696.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/libraries/static",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "CppPractices",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "UCMake",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "CppPractices_executables_1_BasicDArray::@3a702d396c0769376f52",
+					"jsonFile" : "target-CppPractices_executables_1_BasicDArray-Debug-96e2c5c29a3fb9d9dfcd.json",
+					"name" : "CppPractices_executables_1_BasicDArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "CppPractices_executables_2_EfficientDArray::@60e2bc2bc639656638ff",
+					"jsonFile" : "target-CppPractices_executables_2_EfficientDArray-Debug-af88d247d1753774eed3.json",
+					"name" : "CppPractices_executables_2_EfficientDArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "CppPractices_executables_3_TemplateDArray::@032c9c8e338e0e72bf09",
+					"jsonFile" : "target-CppPractices_executables_3_TemplateDArray-Debug-b224468519c163230d8f.json",
+					"name" : "CppPractices_executables_3_TemplateDArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "CppPractices_executables_4_list_Polynomial::@a29325bc6b9e2c5fd92b",
+					"jsonFile" : "target-CppPractices_executables_4_list_Polynomial-Debug-596efdd4841e115c314b.json",
+					"name" : "CppPractices_executables_4_list_Polynomial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "CppPractices_executables_5_map_Polynomial::@7451047c9424103abd13",
+					"jsonFile" : "target-CppPractices_executables_5_map_Polynomial-Debug-485cc3bda9209f0929f0.json",
+					"name" : "CppPractices_executables_5_map_Polynomial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "CppPractices_libraries_shared::@51392703d4c1107cea82",
+					"jsonFile" : "target-CppPractices_libraries_shared-Debug-66405c5622136db60321.json",
+					"name" : "CppPractices_libraries_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "CppPractices_libraries_static::@f547a5d5381f6c3500c2",
+					"jsonFile" : "target-CppPractices_libraries_static-Debug-8838da28949347f911f6.json",
+					"name" : "CppPractices_libraries_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "UCMake_test_00_Basic::@a041246eaa3b30c198cb",
+					"jsonFile" : "target-UCMake_test_00_Basic-Debug-f88b4b681b166e83989d.json",
+					"name" : "UCMake_test_00_Basic",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build",
+		"source" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

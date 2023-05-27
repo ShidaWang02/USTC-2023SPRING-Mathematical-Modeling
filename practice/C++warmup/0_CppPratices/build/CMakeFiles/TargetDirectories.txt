@@ -1,0 +1,3 @@
+D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/build/CMakeFiles/hello.dir
+D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/build/CMakeFiles/edit_cache.dir
+D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+Matlab编程练习2--Poisson Image Editing
+
+
+作业要求见附件。
+
+时间：4天。

@@ -1,0 +1,171 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/bin/libCppPractices_libraries_sharedd.dll"
+		},
+		{
+			"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/lib/libCppPractices_libraries_sharedd.dll.a"
+		},
+		{
+			"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/bin/libCppPractices_libraries_sharedd.pdb"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"Ubpa_AddTarget",
+			"target_compile_definitions",
+			"target_include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"build/_deps/ucmake-src/cmake/UbpaBuild.cmake",
+			"src/libraries/shared/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 236,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 264,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 287,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 253,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "CppPractices_libraries_shared_EXPORTS"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "Ubpa_AsShared_PolynomialList"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "Ubpa_Export_PolynomialList"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CppPractices/libraries"
+	},
+	"id" : "CppPractices_libraries_shared::@51392703d4c1107cea82",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "CppPractices_libraries_shared",
+	"nameOnDisk" : "libCppPractices_libraries_sharedd.dll",
+	"paths" : 
+	{
+		"build" : "src/libraries/shared",
+		"source" : "src/libraries/shared"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "include/PolynomialList.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/libraries/shared/PolynomialList.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

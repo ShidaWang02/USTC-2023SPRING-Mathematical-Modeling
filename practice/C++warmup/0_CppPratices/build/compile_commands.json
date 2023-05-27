@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\hello.dir\\DArray.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\samples\\src\\executables\\1_BasicDArray\\DArray.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/src/executables/1_BasicDArray/DArray.cpp",
+  "output": "CMakeFiles/hello.dir/DArray.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\hello.dir\\main.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\samples\\src\\executables\\1_BasicDArray\\main.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/src/executables/1_BasicDArray/main.cpp",
+  "output": "CMakeFiles/hello.dir/main.cpp.obj"
+}
+]

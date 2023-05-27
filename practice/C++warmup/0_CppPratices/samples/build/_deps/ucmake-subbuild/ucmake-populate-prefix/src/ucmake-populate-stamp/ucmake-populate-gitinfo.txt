@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/bin/cmake.exe;-P;D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/build/_deps/ucmake-subbuild/ucmake-populate-prefix/tmp/ucmake-populate-gitclone.cmake
+source_dir=D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/build/_deps/ucmake-src
+work_dir=D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/build/_deps
+repository=https://github.com/Ubpa/UCMake
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+

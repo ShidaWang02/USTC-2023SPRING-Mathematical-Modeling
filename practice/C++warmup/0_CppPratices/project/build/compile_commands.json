@@ -1,0 +1,62 @@
+[
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-build/src/test/00_Basic",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/UCMake_test_00_Basic.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\UCMake_test_00_Basic.dir\\main.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\build\\_deps\\ucmake-src\\src\\test\\00_Basic\\main.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-src/src/test/00_Basic/main.cpp",
+  "output": "_deps/ucmake-build/src/test/00_Basic/CMakeFiles/UCMake_test_00_Basic.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/executables/1_BasicDArray",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\CppPractices_executables_1_BasicDArray.dir\\DArray.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\executables\\1_BasicDArray\\DArray.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/executables/1_BasicDArray/DArray.cpp",
+  "output": "src/executables/1_BasicDArray/CMakeFiles/CppPractices_executables_1_BasicDArray.dir/DArray.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/executables/1_BasicDArray",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\CppPractices_executables_1_BasicDArray.dir\\main.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\executables\\1_BasicDArray\\main.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/executables/1_BasicDArray/main.cpp",
+  "output": "src/executables/1_BasicDArray/CMakeFiles/CppPractices_executables_1_BasicDArray.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/executables/2_EfficientDArray",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\CppPractices_executables_2_EfficientDArray.dir\\DArray.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\executables\\2_EfficientDArray\\DArray.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/executables/2_EfficientDArray/DArray.cpp",
+  "output": "src/executables/2_EfficientDArray/CMakeFiles/CppPractices_executables_2_EfficientDArray.dir/DArray.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/executables/2_EfficientDArray",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\CppPractices_executables_2_EfficientDArray.dir\\main.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\executables\\2_EfficientDArray\\main.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/executables/2_EfficientDArray/main.cpp",
+  "output": "src/executables/2_EfficientDArray/CMakeFiles/CppPractices_executables_2_EfficientDArray.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/executables/3_TemplateDArray",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\CppPractices_executables_3_TemplateDArray.dir\\main.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\executables\\3_TemplateDArray\\main.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/executables/3_TemplateDArray/main.cpp",
+  "output": "src/executables/3_TemplateDArray/CMakeFiles/CppPractices_executables_3_TemplateDArray.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/executables/4_list_Polynomial",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE -DUbpa_AsShared_PolynomialList @CMakeFiles/CppPractices_executables_4_list_Polynomial.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CppPractices_executables_4_list_Polynomial.dir\\main.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\executables\\4_list_Polynomial\\main.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/executables/4_list_Polynomial/main.cpp",
+  "output": "src/executables/4_list_Polynomial/CMakeFiles/CppPractices_executables_4_list_Polynomial.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/executables/5_map_Polynomial",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE -DUbpa_AsShared_PolynomialList @CMakeFiles/CppPractices_executables_5_map_Polynomial.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CppPractices_executables_5_map_Polynomial.dir\\test.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\executables\\5_map_Polynomial\\test.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/executables/5_map_Polynomial/test.cpp",
+  "output": "src/executables/5_map_Polynomial/CMakeFiles/CppPractices_executables_5_map_Polynomial.dir/test.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/libraries/shared",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE -DCppPractices_libraries_shared_EXPORTS -DUbpa_AsShared_PolynomialList -DUbpa_Export_PolynomialList @CMakeFiles/CppPractices_libraries_shared.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CppPractices_libraries_shared.dir\\PolynomialList.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\libraries\\shared\\PolynomialList.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/libraries/shared/PolynomialList.cpp",
+  "output": "src/libraries/shared/CMakeFiles/CppPractices_libraries_shared.dir/PolynomialList.cpp.obj"
+},
+{
+  "directory": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/src/libraries/static",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/CppPractices_libraries_static.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CppPractices_libraries_static.dir\\PolynomialMap.cpp.obj -c D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\src\\libraries\\static\\PolynomialMap.cpp",
+  "file": "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/src/libraries/static/PolynomialMap.cpp",
+  "output": "src/libraries/static/CMakeFiles/CppPractices_libraries_static.dir/PolynomialMap.cpp.obj"
+}
+]

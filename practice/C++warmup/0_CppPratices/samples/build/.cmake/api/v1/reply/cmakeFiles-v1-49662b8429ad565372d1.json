@@ -1,0 +1,280 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.26.0-rc5/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.26.0-rc5/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.26.0-rc5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.26.0-rc5/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cmake/InitUCMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaInit.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaBasic.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaBuild.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaDownload.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaGit.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaPackage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaQt.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaTool.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaGit.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaBuild.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaDownload.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/config/Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/cmake-3.26.0-rc5-windows-x86_64/cmake-3.26.0-rc5-windows-x86_64/share/cmake-3.26/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/ucmake-src/src/test/00_Basic/CMakeLists.txt"
+		},
+		{
+			"path" : "src/executables/1_BasicDArray/CMakeLists.txt"
+		},
+		{
+			"path" : "src/executables/2_EfficientDArray/CMakeLists.txt"
+		},
+		{
+			"path" : "src/executables/3_TemplateDArray/CMakeLists.txt"
+		},
+		{
+			"path" : "src/executables/4_list_Polynomial/CMakeLists.txt"
+		},
+		{
+			"path" : "src/executables/5_map_Polynomial/CMakeLists.txt"
+		},
+		{
+			"path" : "src/libraries/shared/CMakeLists.txt"
+		},
+		{
+			"path" : "src/libraries/static/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/build",
+		"source" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

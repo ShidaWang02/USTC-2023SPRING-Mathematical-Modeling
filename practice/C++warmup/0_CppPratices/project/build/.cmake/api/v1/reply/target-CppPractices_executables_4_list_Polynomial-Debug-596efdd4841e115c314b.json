@@ -1,0 +1,158 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/bin/CppPractices_executables_4_list_Polynomiald.exe"
+		},
+		{
+			"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/bin/CppPractices_executables_4_list_Polynomiald.pdb"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"Ubpa_AddTarget",
+			"target_link_libraries",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"build/_deps/ucmake-src/cmake/UbpaBuild.cmake",
+			"src/executables/4_list_Polynomial/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 226,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 275,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 253,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "Ubpa_AsShared_PolynomialList"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "CppPractices_libraries_shared::@51392703d4c1107cea82"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CppPractices/executables"
+	},
+	"id" : "CppPractices_executables_4_list_Polynomial::@a29325bc6b9e2c5fd92b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "D:\\USR\\Mathematical-Modeling\\practice\\C++warmup\\0_CppPratices\\project\\lib\\libCppPractices_libraries_sharedd.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "CppPractices_executables_4_list_Polynomial",
+	"nameOnDisk" : "CppPractices_executables_4_list_Polynomiald.exe",
+	"paths" : 
+	{
+		"build" : "src/executables/4_list_Polynomial",
+		"source" : "src/executables/4_list_Polynomial"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/executables/4_list_Polynomial/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

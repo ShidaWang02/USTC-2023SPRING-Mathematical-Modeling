@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate-complete.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-build.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-configure.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-download.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-install.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-patch.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-test.rule"
+		},
+		{
+			"file" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/project/build/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ucmake-populate"
+		],
+		"name" : "ucmake-populate"
+	}
+}

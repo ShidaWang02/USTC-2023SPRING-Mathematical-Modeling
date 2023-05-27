@@ -1,0 +1,197 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "_deps/ucmake-src/bin/UCMake_test_00_Basicd.exe"
+		},
+		{
+			"path" : "_deps/ucmake-src/bin/UCMake_test_00_Basicd.pdb"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"Ubpa_AddTarget",
+			"include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"build/_deps/ucmake-src/cmake/UbpaBuild.cmake",
+			"build/_deps/ucmake-src/src/test/00_Basic/CMakeLists.txt",
+			"build/_deps/ucmake-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 226,
+				"parent" : 1
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 11,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 253,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "D:/USR/Mathematical-Modeling/practice/C++warmup/0_CppPratices/samples/build/_deps/ucmake-src/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				8
+			]
+		}
+	],
+	"folder" : 
+	{
+		"name" : "UCMake/test"
+	},
+	"id" : "UCMake_test_00_Basic::@a041246eaa3b30c198cb",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "UCMake_test_00_Basic",
+	"nameOnDisk" : "UCMake_test_00_Basicd.exe",
+	"paths" : 
+	{
+		"build" : "_deps/ucmake-build/src/test/00_Basic",
+		"source" : "build/_deps/ucmake-src/src/test/00_Basic"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				8
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaBasic.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaBuild.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaDownload.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaGit.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaInit.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaPackage.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaQt.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "build/_deps/ucmake-src/cmake/UbpaTool.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "build/_deps/ucmake-src/src/test/00_Basic/main.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}
